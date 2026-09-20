@@ -1,0 +1,6 @@
+Component Type,Manufacturer,Part Number,Name,Quantity,Unit Mass (g),Total Mass (g),Data Status
+Motor,EMAX,ECO-II-2207-1900KV,Emax ECO II 2207 1900KV,4,31.5,126.0,VERIFIED_DATASHEET
+Flight Controller,Generic,Stack-30x30,Stack 30x30 F7 Flight Controller,1,15.0,15.0,VERIFIED_DATASHEET
+Battery,Generic,4S-1300,4S 1300mAh 100C LiPo,1,180.0,180.0,VERIFIED_DATASHEET
+Wiring/Harness,Generic,N/A,12AWG Power Leads & Signal Wires,1,40.0,40.0,ASSUMED
+Frame,CopterCode Auto-Gen,3D-Printed STL,Custom Frame,1,93.0,93.0,COMPUTED
