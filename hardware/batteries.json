@@ -1,0 +1,54 @@
+{
+    "micro": {
+        "id": "batt_micro_assumed",
+        "manufacturer": "Generic",
+        "part_number": "2S-450",
+        "name": "2S 450mAh LiPo",
+        "mass_g": 30.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "retention": {
+            "strap_width_mm": 12.0,
+            "slot_thickness_mm": 2.5,
+            "slot_separation_mm": 16.0
+        }
+    },
+    "racing": {
+        "id": "batt_racing_verified",
+        "manufacturer": "Generic",
+        "part_number": "4S-1300",
+        "name": "4S 1300mAh 100C LiPo",
+        "mass_g": 180.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "retention": {
+            "strap_width_mm": 20.0,
+            "slot_thickness_mm": 3.0,
+            "slot_separation_mm": 24.0
+        }
+    },
+    "heavy": {
+        "id": "batt_heavy_assumed",
+        "manufacturer": "Generic",
+        "part_number": "6S-5000",
+        "name": "6S 5000mAh Heavy Duty LiPo",
+        "mass_g": 680.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "retention": {
+            "strap_width_mm": 25.0,
+            "slot_thickness_mm": 3.5,
+            "slot_separation_mm": 36.0
+        }
+    },
+    "standard": {
+        "id": "batt_standard_assumed",
+        "manufacturer": "Generic",
+        "part_number": "4S-2200",
+        "name": "4S 2200mAh LiPo",
+        "mass_g": 420.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "retention": {
+            "strap_width_mm": 20.0,
+            "slot_thickness_mm": 3.0,
+            "slot_separation_mm": 24.0
+        }
+    }
+}

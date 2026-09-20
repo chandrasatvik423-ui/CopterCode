@@ -1,0 +1,29 @@
+{
+    "PLA": {
+        "density_g_cm3": 1.24,
+        "allowable_stress_mpa": 30.0,
+        "cost_per_kg_usd": 25.0,
+        "print_rate_g_hr": 45.0,
+        "status": "ASSUMED",
+        "source": "engineering_assumption",
+        "notes": "Typical FDM PLA screening values. Must be superseded by physical coupon test data before flight."
+    },
+    "PETG": {
+        "density_g_cm3": 1.27,
+        "allowable_stress_mpa": 45.0,
+        "cost_per_kg_usd": 30.0,
+        "print_rate_g_hr": 40.0,
+        "status": "ASSUMED",
+        "source": "engineering_assumption",
+        "notes": "Typical FDM PETG screening values."
+    },
+    "CarbonFiber_Woven": {
+        "density_g_cm3": 1.60,
+        "allowable_stress_mpa": 600.0,
+        "cost_per_kg_usd": 120.0,
+        "print_rate_g_hr": 0.0,
+        "status": "ASSUMED",
+        "source": "engineering_assumption",
+        "notes": "Woven CF laminate screening values. Subtractive/layup process only. print_rate=0 disables FDM estimate."
+    }
+}

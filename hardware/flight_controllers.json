@@ -1,0 +1,58 @@
+{
+    "micro": {
+        "id": "fc_micro_assumed",
+        "manufacturer": "Generic",
+        "part_number": "Micro-20x20",
+        "name": "Micro 20x20 AIO",
+        "mass_g": 5.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 20.0,
+            "hole_diameter_mm": 2.0,
+            "coordinates_mm": [[-10.0, -10.0], [10.0, -10.0], [10.0, 10.0], [-10.0, 10.0]]
+        }
+    },
+    "racing": {
+        "id": "fc_racing_verified",
+        "manufacturer": "Generic",
+        "part_number": "Stack-30x30",
+        "name": "Stack 30x30 F7 Flight Controller",
+        "mass_g": 15.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 30.5,
+            "hole_diameter_mm": 3.0,
+            "coordinates_mm": [[-15.25, -15.25], [15.25, -15.25], [15.25, 15.25], [-15.25, 15.25]]
+        }
+    },
+    "heavy": {
+        "id": "fc_heavy_assumed",
+        "manufacturer": "Generic",
+        "part_number": "Cube-Orange",
+        "name": "Industrial Pixhawk Cube Orange",
+        "mass_g": 30.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 45.0,
+            "hole_diameter_mm": 3.5,
+            "coordinates_mm": [[-22.5, -22.5], [22.5, -22.5], [22.5, 22.5], [-22.5, 22.5]]
+        }
+    },
+    "standard": {
+        "id": "fc_standard_assumed",
+        "manufacturer": "Generic",
+        "part_number": "F4-Stack",
+        "name": "Standard 30x30 F4 Flight Stack",
+        "mass_g": 15.0,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 30.5,
+            "hole_diameter_mm": 3.0,
+            "coordinates_mm": [[-15.25, -15.25], [15.25, -15.25], [15.25, 15.25], [-15.25, 15.25]]
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "micro": {
+        "id": "generic_micro_1103",
+        "manufacturer": "Generic",
+        "part_number": "1103-8000KV",
+        "name": "Micro 1103 8000KV",
+        "unit_mass_g": 4.0,
+        "max_thrust_n": 1.2,
+        "prop_diam_mm": 63.5,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 9.0,
+            "hole_diameter_mm": 2.0,
+            "coordinates_mm": [[-4.5, -4.5], [4.5, -4.5], [4.5, 4.5], [-4.5, 4.5]]
+        }
+    },
+    "racing": {
+        "id": "emax_eco_ii_2207_verified",
+        "manufacturer": "EMAX",
+        "part_number": "ECO-II-2207-1900KV",
+        "name": "Emax ECO II 2207 1900KV",
+        "unit_mass_g": 31.5,
+        "max_thrust_n": 14.7,
+        "prop_diam_mm": 129.54,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 16.0,
+            "hole_diameter_mm": 3.0,
+            "coordinates_mm": [[-8.0, -8.0], [8.0, -8.0], [8.0, 8.0], [-8.0, 8.0]]
+        }
+    },
+    "heavy": {
+        "id": "tmotor_u8_lite_assumed",
+        "manufacturer": "T-Motor",
+        "part_number": "U8-Lite-KV85",
+        "name": "T-Motor U8 Lite KV85",
+        "unit_mass_g": 75.0,
+        "max_thrust_n": 25.0,
+        "prop_diam_mm": 711.2,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 40.0,
+            "hole_diameter_mm": 4.0,
+            "coordinates_mm": [[-20.0, -20.0], [20.0, -20.0], [20.0, 20.0], [-20.0, 20.0]]
+        }
+    },
+    "standard": {
+        "id": "generic_2207_assumed",
+        "manufacturer": "Generic",
+        "part_number": "2207-1750KV",
+        "name": "Generic 2207 1750KV",
+        "unit_mass_g": 31.5,
+        "max_thrust_n": 14.7,
+        "prop_diam_mm": 129.54,
+        "data_status": "VERIFIED_DATASHEET",
+        "mount_pattern": {
+            "type": "square",
+            "spacing_mm": 16.0,
+            "hole_diameter_mm": 3.0,
+            "coordinates_mm": [[-8.0, -8.0], [8.0, -8.0], [8.0, 8.0], [-8.0, 8.0]]
+        }
+    }
+}
